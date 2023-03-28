@@ -48,6 +48,8 @@ p {
 }
 button {
     background-color: #3882f6;
+    font-size: 18px;
+    font-weight: bold;
     color: #f9faf8;
     padding: 5px 15px;
     border-radius: 10px;
@@ -111,4 +113,11 @@ figcaption {
 }
 #sign-up {
     border-color: #f9faf8;
+}
+.footer {
+    background-color: #1F2937;
+    color: #f9faf8;
+    padding: 30px 200px;
+    text-align: center;
+    font-size: 18px;
 }
