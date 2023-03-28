@@ -77,3 +77,15 @@ figcaption {
     text-align-last: center;
     border: #1F2937;
 }
+.quote {
+    background-color: #e5e7eb;
+    padding: 30px 200px;
+}
+.quote p {
+    font-size: 36px;
+    color: #1F2937;
+}
+#writer {
+    font-size: 24px;
+    text-align: end;
+}
