@@ -52,3 +52,28 @@ button {
     padding: 5px 15px;
     border-radius: 10px;
 }
+.content {
+    background-color: #f9faf8;
+    padding: 30px 200px;
+}
+h2 {
+    text-align: center;
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1F2937;
+}
+.images {
+    display: flex;
+    justify-content: space-between;
+}
+.images img {
+    height: auto;
+    max-width: 100px;
+    border-radius: 10px;
+}
+figcaption {
+    max-width: 100px;
+    text-align: justify;
+    text-align-last: center;
+    border: #1F2937;
+}
